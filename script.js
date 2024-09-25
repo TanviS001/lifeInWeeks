@@ -8,4 +8,6 @@ function lifeInWeeks(age) {
     console.log("You have "+days+" days, "+weeks+" weeks, and "+months+" months left..");
 
 }
+
+
 lifeInWeeks();
